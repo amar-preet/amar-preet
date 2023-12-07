@@ -5,6 +5,5 @@
 - 🌱 I’m currently learning CDK using TypeScript
 - 🎓 My Cloud [Certifications](https://www.credly.com/users/amarpreet-singh.4cbbaae3/badges) 
 - 📃 Follow me on [Medium](https://amarpreet-s.medium.com/)
-- 📫 How to reach me: [Email](amarpreet.singh1985@gmail.com)
 - 😄 Pronouns: He/His/Him
 - ⚡ Fun fact: I DJ as a hobby. 
